@@ -1,0 +1,4 @@
+﻿  Roulette.cpp
+c:\users\tom\documents\git\side-projects\roulette\roulette\roulette.cpp(23): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\tom\documents\git\side-projects\roulette\roulette\roulette.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Roulette.vcxproj -> C:\Users\Tom\Documents\Git\side-projects\Roulette\x64\Debug\Roulette.exe
