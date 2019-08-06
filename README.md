@@ -18,5 +18,6 @@ It has methods for acquiring all necessary information from the user: bet amount
 After spinning, it announces the results. If the user won, it also rewards money as appropriate.
 
 ## Future plans
-For now, everything appears to be working as it should. I've fixed the glitch where invalid inputs cause the program to get stuck in an infinite loop.
-I might someday remake it in C# so I can include it in a suite of casino games with the blackjack program. That might be a webpage implented with ASP.NET and JavaScript.
+As of 5 August 2019, this program works fine on my home PC but not on my laptop, despite that both are running Windows 10.
+The error messages make it look that there are dependencies missing on the laptop, even though I have already installed everything that seems relevant.
+For now I'll have to see what I can do to fix it.
