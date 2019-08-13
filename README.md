@@ -18,6 +18,4 @@ It has methods for acquiring all necessary information from the user: bet amount
 After spinning, it announces the results. If the user won, it also rewards money as appropriate.
 
 ## Future plans
-As of 5 August 2019, this program works fine on my home PC but not on my laptop, despite that both are running Windows 10.
-The error messages make it look that there are dependencies missing on the laptop, even though I have already installed everything that seems relevant.
-For now I'll have to see what I can do to fix it.
+As of 12 August 2019, I have no plans to make any non-trivial changes to this program.
